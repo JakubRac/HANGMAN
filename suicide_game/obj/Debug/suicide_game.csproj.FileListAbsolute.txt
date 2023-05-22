@@ -1,0 +1,22 @@
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\bin\Debug\suicide_game.exe.config
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\bin\Debug\suicide_game.exe
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\bin\Debug\suicide_game.pdb
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.AssemblyReference.cache
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.Form1.resources
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.Properties.Resources.resources
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.GenerateResource.cache
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.exe
+C:\Users\student\Documents\STUDENCI\19363\suicide_game\suicide_game\obj\Debug\suicide_game.pdb
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\bin\Debug\suicide_game.exe.config
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\bin\Debug\suicide_game.exe
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\bin\Debug\suicide_game.pdb
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.AssemblyReference.cache
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.Form1.resources
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.Properties.Resources.resources
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.GenerateResource.cache
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.exe
+C:\Users\Jakub Rackiewicz\Downloads\suicide_game\suicide_game\obj\Debug\suicide_game.pdb
